@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Software Engineer🌟.</h3>
 <br>
 
-- 🌱 I’m currently work as front end engineer @ Hubble
+- 🌱 I’m currently working as front end engineer @ Hubble
 - 📫 How to reach me **hieuvominh56@gmail.com**
-- ⚡ Fun fact : Love coding and making music🎵
+- ⚡ Fun fact: Love coding and making music🎵
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
